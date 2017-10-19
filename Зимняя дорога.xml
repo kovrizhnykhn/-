@@ -264,7 +264,7 @@
       </surface>
       <surface n="Правка">
         <graphic url="http://textograf.ru/api/Manuscripts/eef47efc-e0a3-4dc0-b499-f31391d75cfb/2d6f0fe3-eed1-4cb6-8f15-75d2b5bb8c66.jpg" width="1271px" height="1920px" />
-        <zone>
+        <zone ulx="382.19570922851562" uly="75.758903503417969" lrx="382.19570922851562" lry="30.442989349365234">
           <line>
             <add place="above">Зимняя дорога.</add>По дорогѣ зимней, скучной </line>
           <line>Тройка борзая бѣжитъ, </line>
