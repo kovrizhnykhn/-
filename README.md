@@ -2,7 +2,7 @@
 Здесь можно найти выполненные домашние задания по дисциплине "Гуманитарные науки в цифровую эпоху".
 
 ## *Задание №1*
-[Оцифровка стихотворения А. С. Пушкина "Зимняя дорога"](https://github.com/kovrizhnykhn/Kovrizhnykh-N/blob/master/%D0%97%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0.xml):
+[Оцифровка стихотворения А. С. Пушкина "Зимняя дорога"](https://github.com/kovrizhnykhn/Kovrizhnykh-N/blob/master/%D0%97%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0.xml)
 
 ## *Задание №2*
 [Корпусное исследование поэтического текста (на материале стихотворения А. Беницкого "Отчаянная любовь")](https://github.com/kovrizhnykhn/Kovrizhnykh-N/blob/master/%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%BD%D0%BE%D0%B5%20%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.md) 
@@ -20,4 +20,4 @@
 2. линиями зеленого цвета отмечен путь по воде, черного - по суше).
 
 ## *Задание №4*
-[Презентация к докладу](https://github.com/kovrizhnykhn/Kovrizhnykh-N/blob/master/Supporting.pptx) 
+[Презентация к докладу "Supporting exploratory text analysis in literature study"](https://github.com/kovrizhnykhn/Kovrizhnykh-N/blob/master/Supporting.pptx) 
