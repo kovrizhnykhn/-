@@ -20,4 +20,4 @@
 2. линиями зеленого цвета отмечен путь по воде, черного - по суше).
 
 ## *Задание №4*
-[Презентация к докладу]() 
+[Презентация к докладу](https://github.com/kovrizhnykhn/Kovrizhnykh-N/blob/master/Supporting.pptx) 
